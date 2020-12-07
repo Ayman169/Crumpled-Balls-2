@@ -7,8 +7,8 @@ var dustbin1, dustbin2, dustbin3, paper, ground,back,dustbinImage,paperImage;
 
 function preload()
 {
-	back=loadImage("Sprites/bg.jpg");
-	dustbinImage=loadImage("Sprites/dustbin.png");
+	back=loadImage("bg.jpg");
+	dustbinImage=loadImage("dustbin.png");
 }
 
 function setup() {
